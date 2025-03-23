@@ -1,5 +1,7 @@
-# Mod Template
-This is a generic template to get you started with modding [Mudborne](https://store.steampowered.com/app/2355150/Mudborne_Frog_Management_Sim/)
+# PET THEM PETS!!
 
-See the guide on Steam here:
-https://steamcommunity.com/sharedfiles/filedetails/?id=3412885981
+![icon_medium.png](icon_medium.png)
+
+silly mod that makes your pet bigger the more you pet it
+
+now get out there and PET THEM PETS!!
